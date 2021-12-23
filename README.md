@@ -29,6 +29,8 @@ The shelf, installed for a fit test. Notice the tight but not restrictive cleara
 ![Shelf installed with Sega NAOMI for scale. Image 2 of 2](./photos/fitTestNaomi2.jpg)  
 Additional angles showing the fit, with a Sega NAOMI system for scale. Note: These are images of the prototype, and do not include the screw or a proper rear support. There is ample space for a cabled NAOMI setup on top of the shelf, without interfering with the operation of the coin door.
 
+The shelf is designed not to interfere with the normal 'PCB Mounting Board' tray.
+
 Also notable in these photos is the interior illumination of the cabinet provided by my [Astro City Service Light modification](https://github.com/Softdrink117/new-astro-city-service-light-brackets).
 
 (Please excuse the lack of final photos, I'll try to remember to add some later.)
