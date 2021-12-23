@@ -10,7 +10,16 @@ Design by Tobias Heinemann / Softdrink 117 c. 2021
 
 This is a simple laser-cut shelf designed to mount above the cashbox in an Astro or New Astro City arcade cabinet. Contained in the repo are a dimensional drawing of the design (in [Adobe Illustrator](./dimensional_drawing/AstroCity_Shelf_V1-1_Dimensions.ai), [PDF](./dimensional_drawing/AstroCity_Shelf_V1-1_Dimensions_copy.pdf), and [PNG](./dimensional_drawing/AstroCity_Shelf_V1-1_Dimensions.png) formats), ready-to-cut cutfiles of the design (in [Illustrator 8](./cutfile/AstroCity_Shelf_V1-1_CUTFILE.ai) and [PDF](./cutfile/AstroCity_Shelf_V1-1_CUTFILE_copy.pdf) formats - backsaved for legacy compatibility), and a few photos of the shelf as-installed.
 
+### Materials
 
+- Sheet material - I recommend plywood. The template provided is sized for 2ft x 2ft "project panel" plywood sheets that are commonly available at name-brand hardware stores in the USA, but any reasonably rigid laser-cuttable material should work. Working area >= 310mm x 500mm.
+- A supporting rod or block - I used a 1/2" basswood dowel, but again, many options will work. Working length >= 255mm.
+- Some means of joining the support and the sheet
+- (Optional, depending on material thickness) an M4x20 screw to replace the original one installed in the cabinet.
+
+### A Note on Hand-Cutting
+
+The first version of this design was hand-cut. If you intend to hand-cut the shelf, the only critical corner radius is the single 40mm corner on the back edge, and it does not need to be particularly precise to fit. I'd estimate a tolerance of at least 2mm for that corner will work fine. The other corners are rounded in the cutfile just for aesthetic purposes or to ease assembly. 
 
 ### Installation
 
