@@ -8,7 +8,7 @@ Design by Tobias Heinemann / Softdrink 117 c. 2021
 
 ![Dimensional drawing of the shelf](./dimensional_drawing/AstroCity_Shelf_V1-1_Dimensions.png)
 
-This is a simple laser-cut shelf designed to mount above the cashbox in an Astro or New Astro City arcade cabinet. Contained in the repo are a dimensional drawing of the design (in [Adobe Illustrator](./dimensional_drawing/AstroCity_Shelf_V1-1_Dimensions.ai), [PDF](./dimensional_drawing/AstroCity_Shelf_V1-1_Dimensions copy.pdf), and [PNG](./dimensional_drawing/AstroCity_Shelf_V1-1_Dimensions.png) formats), ready-to-cut cutfiles of the design (in [Illustrator 8](./cutfile/AstroCity_Shelf_V1-1_CUTFILE.ai) and [PDF](./cutfile/AstroCity_Shelf_V1-1_CUTFILE copy.pdf) formats - backsaved for legacy compatibility), and a few photos of the shelf as-installed.
+This is a simple laser-cut shelf designed to mount above the cashbox in an Astro or New Astro City arcade cabinet. Contained in the repo are a dimensional drawing of the design (in [Adobe Illustrator](./dimensional_drawing/AstroCity_Shelf_V1-1_Dimensions.ai), [PDF](./dimensional_drawing/AstroCity_Shelf_V1-1_Dimensions_copy.pdf), and [PNG](./dimensional_drawing/AstroCity_Shelf_V1-1_Dimensions.png) formats), ready-to-cut cutfiles of the design (in [Illustrator 8](./cutfile/AstroCity_Shelf_V1-1_CUTFILE.ai) and [PDF](./cutfile/AstroCity_Shelf_V1-1_CUTFILE_copy.pdf) formats - backsaved for legacy compatibility), and a few photos of the shelf as-installed.
 
 
 
