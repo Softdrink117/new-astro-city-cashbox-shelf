@@ -6,6 +6,9 @@ Design by Tobias Heinemann / Softdrink 117 c. 2021
 
 -----
 
+![Image of the shelf installed](./photos/finishedInstall_01.jpg)
+![Image of the shelf installed](./photos/finishedInstall_03.jpg)
+
 ![Dimensional drawing of the shelf](./dimensional_drawing/AstroCity_Shelf_V1-1_Dimensions.png)
 
 This is a simple laser-cut shelf designed to mount above the cashbox in an Astro or New Astro City arcade cabinet. Contained in the repo are a dimensional drawing of the design (in [Adobe Illustrator](./dimensional_drawing/AstroCity_Shelf_V1-1_Dimensions.ai), [PDF](./dimensional_drawing/AstroCity_Shelf_V1-1_Dimensions_copy.pdf), and [PNG](./dimensional_drawing/AstroCity_Shelf_V1-1_Dimensions.png) formats), ready-to-cut cutfiles of the design (in [Illustrator 8](./cutfile/AstroCity_Shelf_V1-1_CUTFILE.ai) and [PDF](./cutfile/AstroCity_Shelf_V1-1_CUTFILE_copy.pdf) formats - backsaved for legacy compatibility), and a few photos of the shelf as-installed.
@@ -19,7 +22,7 @@ This is a simple laser-cut shelf designed to mount above the cashbox in an Astro
 
 ### A Note on Hand-Cutting
 
-The first version of this design was hand-cut. If you intend to hand-cut the shelf, the only critical corner radius is the single 40mm corner on the back edge, and it does not need to be particularly precise to fit. I'd estimate a tolerance of at least 2mm for that corner will work fine. The other corners are rounded in the cutfile just for aesthetic purposes or to ease assembly. 
+The first version of this design was hand-cut. If you intend to hand-cut the shelf, the only critical corner radius is the single 40mm corner on the back edge, and it does not need to be particularly precise to fit. I'd estimate a tolerance of at least 2mm for that corner will work fine. The other corners are rounded in the cutfile just for aesthetic purposes or to ease assembly.
 
 ### Installation
 
@@ -34,13 +37,11 @@ Finally, use either the existing M4x12 screw, or a longer equivalent (depending 
 ![Fit test image of the installed shelf](./photos/fitTest1.jpg)  
 The shelf, installed for a fit test. Notice the tight but not restrictive clearance around the coin chute, and the small gaps along the side and front walls for cable management.
 
-![Shelf installed with Sega NAOMI for scale. Image 1 of 2](./photos/fitTestNaomi1.jpg)  
-![Shelf installed with Sega NAOMI for scale. Image 2 of 2](./photos/fitTestNaomi2.jpg)  
-Additional angles showing the fit, with a Sega NAOMI system for scale. Note: These are images of the prototype, and do not include the screw or a proper rear support. There is ample space for a cabled NAOMI setup on top of the shelf, without interfering with the operation of the coin door.
+![Shelf installed with Sega NAOMI for scale. Image 1 of 2](./photos/finishedInstall_01.jpg)
+![Shelf installed with Sega NAOMI for scale. Image 2 of 2](./photos/finishedInstall_02.jpg)
+Additional angles showing the fit, with a Sega NAOMI system for scale. There is ample space for a cabled NAOMI setup on top of the shelf, without interfering with the operation of the coin door.
 
-The shelf is designed not to interfere with the normal 'PCB Mounting Board' tray.
+![Shelf installed with Sega NAOMI for scale, detail of clearance gap between shelf and PCB mounting tray.](./photos/finishedInstall_Clearance.jpg)
+The shelf is designed not to interfere with the normal 'PCB Mounting Board' tray; as you can see, there is ample clearance between them for cables or other installed equipment.
 
 Also notable in these photos is the interior illumination of the cabinet provided by my [Astro City Service Light modification](https://github.com/Softdrink117/new-astro-city-service-light-brackets).
-
-(Please excuse the lack of final photos, I'll try to remember to add some later.)
-
